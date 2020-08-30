@@ -1,3 +1,12 @@
+# React Tutorial (with an enhancement)
+
+https://reactjs.org/tutorial/tutorial.html
+An enhancement to add Object Orientation (OOPS) in the design
+* Each Board has its own history
+* Each Game can now have multiple boards
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
