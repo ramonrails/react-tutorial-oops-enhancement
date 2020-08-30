@@ -7,6 +7,8 @@ An enhancement to add Object Orientation (OOPS) in the design
 * Each Board has its own history
 * Each Game can now have multiple boards
 
+![Many boards in a game](https://lh3.googleusercontent.com/pw/ACtC-3cYHkAGVVeD03iZnunwEYfnZMD8yz7L5LWlr_QCe1MG1dOiczEIz6-KPAwgGh6ByVYtHUE6YrWBdT1QDd4mIuaQgO1MV3MvIa6YhPXxwoPhIWCo_SJ5mqsEbhA4DMB1D_m4jCL3c_dNuToa1LTHqB2X=w899-h505-no?authuser=0)
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
